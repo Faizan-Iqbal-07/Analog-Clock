@@ -13,7 +13,7 @@ This is a simple **Analog Clock** web application built using HTML, CSS, and Jav
 - **JavaScript**: Logic to calculate and rotate the clock hands based on current time.
 
 ## Live Demo
-You can view the live version of the project [here](https://faizan-iqbal-07.github.io/Analog-Clock/).
+You can view the live version of the project [here](https://analog-clock-rose-two.vercel.app/).
 
 ## How to Use
 1. Clone this repository:
